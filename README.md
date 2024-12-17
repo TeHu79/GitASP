@@ -1,0 +1,2 @@
+# GitASP
+Koulutukseen liittyvää harjoitusta
